@@ -6,6 +6,9 @@
   "repository": "https://github.com/luishrodg/keep-anti-lacerda-alive.git",
   "author": "Luis Rodrigues <luis.rodrigues@bowe.co>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "cors": "^2.8.5",
